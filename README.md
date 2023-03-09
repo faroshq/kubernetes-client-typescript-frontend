@@ -1,4 +1,4 @@
-## kubernetes-client-typescript-frontend@v1.26.2-1
+## kubernetes-client-typescript-frontend@v1.26.2-2
 
 This generator creates TypeScript/JavaScript client that utilizes [jQuery](https://jquery.com/). The generated Node module can be used in the following environments:
 
@@ -36,7 +36,7 @@ navigate to the folder of your consuming project and run one of the following co
 _published:_
 
 ```
-npm install kubernetes-client-typescript-frontend@v1.26.2-1 --save
+npm install kubernetes-client-typescript-frontend@v1.26.2-2 --save
 ```
 
 _unPublished (not recommended):_

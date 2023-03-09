@@ -1,3 +1,3 @@
 // This is the entrypoint for the package
-export * from './api/apis';
+export * from './api/api';
 export * from './model/models';

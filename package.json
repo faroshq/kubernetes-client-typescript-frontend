@@ -1,6 +1,6 @@
 {
     "name": "kubernetes-client-typescript-frontend",
-    "version": "v1.26.2-1",
+    "version": "v1.26.2-2",
     "description": "JQuery client for kubernetes-client-typescript-frontend",
     "main": "api.js",
     "scripts": {
